@@ -17,5 +17,5 @@
 5."localhost:3000/api/availabilityOfVillasAtParticularDate" is api to get a particular villa in a patricular area and in the range of particular date in which enter villa name,area name,checkInDate and checkOutDate as input.
 
 
-6."localhost:3000/api//bookingConfirmForVilla" is api to confirm booking in which enter villa name,area name,checkInDate and checkOutDate as input.
+6."localhost:3000/api/bookingConfirmForVilla" is api to confirm booking in which enter villa name,area name,checkInDate and checkOutDate as input.
 If booking date is available then it return bookings of villa otherwise return "not possible".
